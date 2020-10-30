@@ -11,7 +11,7 @@ We will use pip in this tutorial
    pip is already installed if you are using Python 2 >=2.7.9 or Python 3 >=3.4  
    you can check python version by running:  
         `python --version`
-2. run the following command to install virtualenv:  
+2. install virtualenv by running:  
         `pip install virtualenv`  
 3. change to Homework2 directory and create a virtual environment by running:  
         `py -m venv dsci560H4`  
