@@ -3,7 +3,7 @@
 1a.py : generate 1000 random numbers over 0-100.  
 1b.py : generate another 1000 new random numbers from the output of 1a using the equation y = 3x + 6.  
 1c.py : visualize the results from 1a and 1b.  
-random_number_generator.ipynb : run all 3 steps of 1a, 1b, and 1c in jupyter notebook  
+random_number_generator.ipynb : run all 3 steps of 1a, 1b, and 1c, and visualize each step in jupyter notebook  
 ## Instructions:
 ### How to create a virtual environment
 We will use pip in this tutorial  
