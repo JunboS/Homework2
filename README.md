@@ -13,4 +13,4 @@ random_number_generator.ipynb script shows the 3 steps by calling 1a, 1b, and 1c
 
 Zenodo badge with the DOI [![DOI](https://zenodo.org/badge/298488549.svg)](https://zenodo.org/badge/latestdoi/298488549)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JunboS/Homework2/master?filepath=https%3A%2F%2Fgithub.com%2FJunboS%2FHomework2%2Fblob%2Fmaster%2Frandom_number_generator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/JunboS/Homework2/06df3d8c0fc5cc9b0311c3f22d656a58f92291f9)
