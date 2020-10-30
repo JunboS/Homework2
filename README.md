@@ -13,11 +13,15 @@ We will use pip in this tutorial
         `python --version`
 2. run the following command to install virtualenv:  
         `pip install virtualenv`  
-3. change to a favor directory and create a virtual environment by running:  
+3. change to Homework2 directory and create a virtual environment by running:  
         `py -m venv dsci560H4`  
    dsci560H4 is the name of environment  
+![q1](https://github.com/JunboS/Homework2/blob/master/q1.png?raw=true)
+
 4. you have to activate it by running:  
         `.\dsci560H4\Scripts\activate`  
+![q1](https://github.com/JunboS/Homework2/blob/master/q2.png?raw=true)
+
 5. install the required package matplotlib for the scripts  
         `pip install matplotlib`  
 ### Execute the scripts  
