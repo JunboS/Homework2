@@ -18,16 +18,19 @@ We will use pip in this tutorial
    dsci560H4 is the name of environment  
 4. you have to activate it by running:  
         `.\dsci560H4\Scripts\activate`  
-5. install the dependencies for the scripts  
+5. install the required package matplotlib for the scripts  
         `pip install matplotlib`  
 ### Execute the scripts  
-by running:  
+6. by running:  
     `python 1a.py`  
     `python 1b.py`  
     `python 1c.py`  
     
 ![q3](https://github.com/JunboS/Homework2/blob/master/q3.png?raw=true)
 
+7. when you are done, stop the virtual environment by running:  
+         `deactivate`  
+         
 ## Compare the packages
 ### manually installed:  
 matplotlib 3.3.2  
