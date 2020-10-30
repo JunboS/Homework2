@@ -49,7 +49,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.1  
 six==1.15.0  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JunboS/Homework2/8ca37e4d746e162d2aa061093167e4aeaf63d5c1)
+Open the notebook by clicking the Binder badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JunboS/Homework2/8ca37e4d746e162d2aa061093167e4aeaf63d5c1)
 
 Zenodo badge with the DOI [![DOI](https://zenodo.org/badge/298488549.svg)](https://zenodo.org/badge/latestdoi/298488549)
 
